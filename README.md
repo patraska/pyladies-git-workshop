@@ -5,5 +5,5 @@ ukazkovy repozitar ke git workshopu
 2. psat
 3. a pocitat
 spust
-'''git clone'''
 *a je* **to**
+hotovo
