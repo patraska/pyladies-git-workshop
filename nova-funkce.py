@@ -1,0 +1,1 @@
+print("tohle umi novou funkci")
